@@ -33,7 +33,7 @@ SQL Server Express: Lightweight server for hosting your SQL database.
 SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.
 Git Repository: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 DrawIO: Design data architecture, models, flows, and diagrams.
-Notion: Get the Project Template from Notion
+Notion: Get the Project Template from Notion(https://www.notion.so/DataWarehouse-Project-1d9602cea9ec80a3a548e826185e8ad5)
 Notion Project Steps: Access to All Project Phases and Tasks.
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
